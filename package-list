@@ -2,5 +2,8 @@ septogeddon.pluginquery
 septogeddon.pluginquery.api
 septogeddon.pluginquery.bungeecord
 septogeddon.pluginquery.bungeecord.event
+septogeddon.pluginquery.spigot
 septogeddon.pluginquery.spigot.event
 septogeddon.pluginquery.utils
+septogeddon.pluginquery.velocity
+septogeddon.pluginquery.velocity.event
